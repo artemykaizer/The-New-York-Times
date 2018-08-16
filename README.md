@@ -1,6 +1,7 @@
 ### Homepage - https://n3wtimes.herokuapp.com/science
 <br>
-[API](https://developer.nytimes.com/)
+[API](https://developer.nytimes.com/)<br>
+
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
