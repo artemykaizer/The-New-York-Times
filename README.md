@@ -1,6 +1,6 @@
-### Homepage - https://n3wtimes.herokuapp.com/science
+### Homepage - https://n3wtimes.herokuapp.com
 <br>
-[API](https://developer.nytimes.com/)<br>
+[API](https://developer.nytimes.com)<br>
 
 ---
 
