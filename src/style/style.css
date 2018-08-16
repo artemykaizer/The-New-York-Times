@@ -1,0 +1,74 @@
+body {
+    font-family: 'Times New Roman', Times, serif
+}
+
+.nav-link {
+    color: black;
+}
+
+
+.navbar {
+    position: fixed;
+    width: 100%;
+}
+
+
+.loader {
+    display: block;
+    margin: auto;
+    padding-top: 100px;
+}
+
+.logo {
+    background: url('./logo.png') no-repeat;
+    background-size: contain;
+    width: 30px;
+    height: 40px;
+    margin-right: 40px;
+}
+
+.main-container {
+    padding-top: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+}
+
+.item-container {
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    transition: 0.2s;
+    display: block;
+    color: black;
+    text-decoration: none;
+}
+
+.item-container:hover {
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    color: black;
+    text-decoration: none;
+}
+
+.item-header {
+    font-size: 20px;
+}
+
+.item-img {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 10px;
+}
+
+.nf-header {
+    text-align: center;
+    padding-top: 150px;
+    font-size: 10em;
+}
+
+.nf-text {
+    font-size: 2em;
+    text-align: center
+}
